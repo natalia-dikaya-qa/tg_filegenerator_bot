@@ -1,0 +1,1 @@
+Для запуска в google colab первой строкой добавить: !pip install pyTelegramBotAPI
